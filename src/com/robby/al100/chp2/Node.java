@@ -1,6 +1,6 @@
 package com.robby.al100.chp2;
 
-
+// Linked list
 public class Node {
     public int value;
     public Node next;
